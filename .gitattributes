@@ -1,0 +1,10 @@
+*.json filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+data/** filter=lfs diff=lfs merge=lfs -text
+OTHERS/** filter=lfs diff=lfs merge=lfs -text
+Xrf_train_V1[[:space:]](1).ipynb filter=lfs diff=lfs merge=lfs -text
+[[:space:]]Xrf_train_V1.ipynb filter=lfs diff=lfs merge=lfs -text
+addnorm_calculation_nd_spectrafitting.ipynb filter=lfs diff=lfs merge=lfs -text
+[[:space:]]elemental[[:space:]]maps.ipynb filter=lfs diff=lfs merge=lfs -text
+.ipynb filter=lfs diff=lfs merge=lfs -text
+.pkl filter=lfs diff=lfs merge=lfs -text
