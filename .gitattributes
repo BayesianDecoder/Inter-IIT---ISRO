@@ -8,3 +8,5 @@ addnorm_calculation_nd_spectrafitting.ipynb filter=lfs diff=lfs merge=lfs -text
 [[:space:]]elemental[[:space:]]maps.ipynb filter=lfs diff=lfs merge=lfs -text
 .ipynb filter=lfs diff=lfs merge=lfs -text
 .pkl filter=lfs diff=lfs merge=lfs -text
+json filter=lfs diff=lfs merge=lfs -text
+ISRO.data_collection_v4 filter=lfs diff=lfs merge=lfs -text
